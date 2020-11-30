@@ -126,4 +126,6 @@ atau kamu dapat menggunakan  Airportitlwm.kext untuk Catalina dari folder Intel 
 ### 4. Menambahkan Device Properties untuk Serial number dan info lainnya
 Ikuti panduan ini [guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#generate-a-new-serial) untuk set up serial number dan info yang menyertainya untuk iServices
 
-fork dari https://github.com/racka98/Lenovo-Thinkpad-T450-T450s-Hackintosh-Guide-Opencore
+fork [dari](https://github.com/racka98/Lenovo-Thinkpad-T450-T450s-Hackintosh-Guide-Opencore)
+
+

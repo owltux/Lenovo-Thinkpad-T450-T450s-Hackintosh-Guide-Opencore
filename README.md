@@ -125,4 +125,5 @@ Or you can use Airportitlwm.kext for Catalina from Intel WiFi Kexts folder and g
 ### 4. Add Device Properties for Serial number and other info
 Follow this [guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#generate-a-new-serial) to set up serial number and the accompanying info to get iServices
 
-fork from https://github.com/racka98/Lenovo-Thinkpad-T450-T450s-Hackintosh-Guide-Opencore
+fork [from](https://github.com/racka98/Lenovo-Thinkpad-T450-T450s-Hackintosh-Guide-Opencore)
+[Readme-ID](https://github.com/owltux/Lenovo-Thinkpad-T450-T450s-Hackintosh-Guide-Opencore/blob/main/README-ID.md)
